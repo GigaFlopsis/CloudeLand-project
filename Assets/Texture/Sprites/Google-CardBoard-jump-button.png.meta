@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 11b46d2e5995f464896078c93debe36e
+timeCreated: 1473337321
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Google-CardBoard-jump-button_0
+    21300002: Google-CardBoard-jump-button_1
+    21300004: Google-CardBoard-jump-button_2
+    21300006: Google-CardBoard-jump-button_3
+    21300008: Google-CardBoard-jump-button_4
+    21300010: Google-CardBoard-jump-button_5
+    21300012: Google-CardBoard-jump-button_6
+    21300014: Google-CardBoard-jump-button_7
+    21300016: Google-CardBoard-jump-button_8
+    21300018: Google-CardBoard-jump-button_9
+    21300020: Google-CardBoard-jump-button_10
+    21300022: Google-CardBoard-jump-button_11
+    21300024: Google-CardBoard-jump-button_12
+    21300026: Google-CardBoard-jump-button_13
+    21300028: Google-CardBoard-jump-button_14
+    21300030: Google-CardBoard-jump-button_15
+    21300032: Google-CardBoard-jump-button_16
+    21300034: Google-CardBoard-jump-button_17
+    21300036: Google-CardBoard-jump-button_18
+    21300038: Google-CardBoard-jump-button_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3069
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3069
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3069
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3069
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_4
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3069
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2046
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2046
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_7
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2046
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_8
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2046
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_9
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2046
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1023
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1023
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_13
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1023
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_14
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1023
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_17
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_18
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Google-CardBoard-jump-button_19
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 1024
+        height: 1023
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

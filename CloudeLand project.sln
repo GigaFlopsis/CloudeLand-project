@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudeLand project.Plugins", "CloudeLand project.Plugins.csproj", "{388F4BFF-2570-4562-3E27-56934584F348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudeLand project", "CloudeLand project.csproj", "{71F8AD09-34E7-5A25-C631-5A2EDCB23DF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudeLand project.Editor", "CloudeLand project.Editor.csproj", "{611FD457-4C81-4E85-40A2-948C00FC1005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{388F4BFF-2570-4562-3E27-56934584F348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388F4BFF-2570-4562-3E27-56934584F348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388F4BFF-2570-4562-3E27-56934584F348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388F4BFF-2570-4562-3E27-56934584F348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F8AD09-34E7-5A25-C631-5A2EDCB23DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F8AD09-34E7-5A25-C631-5A2EDCB23DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F8AD09-34E7-5A25-C631-5A2EDCB23DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F8AD09-34E7-5A25-C631-5A2EDCB23DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611FD457-4C81-4E85-40A2-948C00FC1005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611FD457-4C81-4E85-40A2-948C00FC1005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611FD457-4C81-4E85-40A2-948C00FC1005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611FD457-4C81-4E85-40A2-948C00FC1005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
