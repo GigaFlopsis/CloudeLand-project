@@ -1,5 +1,7 @@
 # CloudLand VR game for Daydream and Cardboard 
 
+# [Download apk](https://github.com/GigaFlopsis/CloudeLand-project/blob/master/build/CloudeLand.apk)
+
 [![Icon 512.jpg](https://s23.postimg.org/6e3i2mirf/Icon_512.jpg)](https://postimg.org/image/e6u5uloqf/)
 
 #### Game genre
