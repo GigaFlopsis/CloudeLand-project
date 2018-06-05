@@ -2,7 +2,7 @@
 
 # [Download apk](https://github.com/GigaFlopsis/CloudeLand-project/raw/master/build/CloudeLand.apk)
 
-[![Icon 512.jpg](https://s23.postimg.org/6e3i2mirf/Icon_512.jpg)](https://postimg.org/image/e6u5uloqf/)
+[![Icon 512.jpg](https://lh3.googleusercontent.com/APMaR3W1KlMeakXlmFYDfIUHp3WHDYHInW6sdFZafkrsjjtIbpscDYFibWMEGuVZbjqGMMO2htd6BUHrA-ZeFL5K7AGZDbOI_FdvcxJRpc5d-vMOfFVXkLZTmUwthXC2K2IEF7L_AE5d8Jy8cLCXnEQtiYog5j9W9ilH9-WMy1HAiEBGdwysQY8OKOtzcKzD-Ild4GDjS0Xz33fRHscbzAuttHLH2lEub89cXcB8bgZAUNUeexCWO-PH5ecyNvO-3WHOEpeQfe5E3Iy3Np4FmsIBP0dRqUGmSQelK_P0sVPLRvpumUwjQTyGFRJRtjRZrbhSV592lOAR2Kika0s12iXy4WrHjAq99mmqloVSP-byGNqspHT393MdKx3XCQzW2DODa1frbwsbil_p6q0yfb944a9I5TKUTZslJk5y9YlJLVtdod41KIB5cSati1Do1uWyrU-SzIvGQsXW1cA9JG080DGscW7vU2_3L6tpNZOKyTXldz5RxNUE0ehk3ZiNuD-meoZcIOa0Pa7ucvmuWq71NXcJGKUiP9ueiz3WObcKqySoIeB1YxOL2l0=w3840-h1835)](https://postimg.org/image/e6u5uloqf/)
 
 #### Game genre
     VR platformer
